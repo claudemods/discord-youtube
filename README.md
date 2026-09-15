@@ -23,6 +23,7 @@ _A lightweight Electron wrapper for YouTube with Discord Rich Presence._
 ## 📥 Download
 
 Prebuilt installers will be available on the [releases page](https://github.com/claudemods/Discord-YouTube/releases) once the first build is published.
+optional install discord app permissions [discord](https://discord.com/oauth2/authorize?client_id=1549492396763648111)
 
 ---
 
