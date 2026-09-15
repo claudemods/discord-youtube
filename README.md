@@ -7,7 +7,8 @@ _A lightweight Electron wrapper for YouTube with Discord Rich Presence._
 </div>
 
 
-<img width="470" height="835" alt="working" src="https://github.com/user-attachments/assets/ecebf547-2f3c-4747-a22a-974081ad6599" />
+<div align="center">
+  <img src="./assets/banner.png" alt="Discord YouTube" width="800" />
 
 
 ---
