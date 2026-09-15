@@ -12,7 +12,7 @@ _A lightweight Electron wrapper for YouTube with Discord Rich Presence._
 
 This project is a fork and complete rework of the original
 [Discord-Netflix](https://github.com/Discord-Netflix/Discord-Netflix) project,
-adapted for YouTube.
+ but adapted for YouTube.
 
 The original Discord-Netflix was itself a fork of
 [nirewen's](https://github.com/nirewen) original project.
