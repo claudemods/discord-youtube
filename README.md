@@ -27,9 +27,7 @@ The original Discord-Netflix was itself a fork of
 ## 🌟 Features
 
 - 🖥️ Full-quality streaming (auto-selects highest available)
-- 📌 Picture-in-picture button in the player control bar
 - 🧠 Discord Rich Presence — video title, channel, progress timer
-- 🔗 "Watch on YouTube" button in your Discord activity
 - 🏠 Overlay / interstitial cleanup
 - 🖱️ Smooth scroll
 - 📋 Auto update notifier
