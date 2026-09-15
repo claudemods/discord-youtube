@@ -8,6 +8,14 @@ _A lightweight Electron wrapper for YouTube with Discord Rich Presence._
 [![License](https://img.shields.io/github/license/claudemods/Discord-YouTube?color=blue)](LICENSE)
 </div>
 
+## 🙌 Credits
+
+This project is a fork and complete rework of the original
+[Discord-Netflix](https://github.com/Discord-Netflix/Discord-Netflix) project,
+adapted for YouTube.
+
+The original Discord-Netflix was itself a fork of
+[nirewen's](https://github.com/nirewen) original project.
 
 <div align="center">
 <img width="470" height="835" alt="working" src="https://github.com/user-attachments/assets/7cf66ee0-d295-4984-a75e-2f320d6f6d8e" />
