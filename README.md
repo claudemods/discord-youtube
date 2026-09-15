@@ -3,6 +3,8 @@
 
 _A lightweight Electron wrapper for YouTube with Discord Rich Presence._
 
+[![Join our Discord](https://img.shields.io/discord/868546947953356860?color=5865F2&logo=discord&logoColor=white)](https://discord.gg/g7pMDtkuh)
+[![Downloads](https://img.shields.io/github/downloads/claudemods/discord-youtube/total?color=green&logo=github)](https://github.com/claudemods/discord-youtube/releases)
 [![License](https://img.shields.io/github/license/claudemods/Discord-YouTube?color=blue)](LICENSE)
 </div>
 
