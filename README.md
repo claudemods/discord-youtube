@@ -1,6 +1,3 @@
-currently being updated to work 
-
-
 <div align="center">
 <img width="1536" height="1024" alt="Discord YouTube" src="./assets/banner.png" />
 
